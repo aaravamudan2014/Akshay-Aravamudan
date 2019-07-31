@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/aaravamudan2014/GithubPage-Akshay/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Akshay Aravamudan. I recently (July 2019) graduated with my Master's Degree in Computer Engineering from Florida Institute of Technology. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my college career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bio
 
-### Markdown
+I joined [https://www.fit.edu]{Florida Tech}
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
