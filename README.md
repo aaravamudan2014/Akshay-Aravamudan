@@ -1,6 +1,6 @@
 <!-- # Welcome to my page -->
 
-<div style="text-align:center"><img src="/docs/image.jpeg" /></div>
+<div style="text-align:center"><img src="docs/image.jpeg" /></div>
 My name is Akshay Aravamudan. I am currently a PhD student in computer engineering at Florida Institute of Technology. My primary interests are Machine learning, Data Science and Stochastic Point Processes. I recently (July 2019) graduated with my Master's Degree in Computer Engineering from Florida Institute of Technology. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my college career. You can find my resume [here](docs/Akshay_Aravamudan_resume.pdf).
 
 ## Bio
@@ -30,9 +30,9 @@ The title of my Master's thesis is `Survival Analysis for Information Diffusion`
 
 I was the controls systems lead in my senior design project `MorphWing`. We designed, manufactured and engineered a wing designed to dynamically adjust to the state of optimal drag. I was responsible for the backend circuit setup and [code](https://github.com/aaravamudan2014/morphWingBackEnd). Below are a few images and a gif of the final product that we presented in the 2018 Senior Capstone design at Florida Tech.  
 
-<div style="text-align:center"><img src="/docs/morphWingImage1.jpg" /></div>
-<div style="text-align:center"><img src="/docs/morphWingImage2.jpg" /></div>
-<div style="text-align:center"><img src="/docs/morphWing.gif" /></div>
+<div style="text-align:center"><img src="docs/morphWingImage1.jpg" /></div>
+<div style="text-align:center"><img src="docs/morphWingImage2.jpg" /></div>
+<div style="text-align:center"><img src="docs/morphWing.gif" /></div>
 
 
 ### Other projects of relevance
