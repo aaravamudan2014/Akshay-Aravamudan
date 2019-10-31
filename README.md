@@ -1,7 +1,7 @@
 <!-- # Welcome to my page -->
 
 <div style="text-align:center"><img src="./docs/image.jpeg" /></div>
-My name is Akshay Aravamudan. I am currently a PhD student in computer engineering at Florida Institute of Technology. My primary interests are Machine learning, Data Science and Stochastic Point Processes. I recently (July 2019) graduated with my Master's Degree in Computer Engineering from Florida Institute of Technology. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my college career. You can find my resume [here](docs/Akshay_Aravamudan_resume_2019-10-26-2.pdf).
+My name is Akshay Aravamudan. I am currently a PhD student in computer engineering at Florida Institute of Technology. My primary interests are Machine learning, Data Science and Stochastic Point Processes. I recently (July 2019) graduated with my Master's Degree in Computer Engineering from Florida Institute of Technology. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my college career. You can find my resume [here](./docs/Akshay_Aravamudan_resume_2019-10-26-2.pdf).
 
 ## Bio
 
