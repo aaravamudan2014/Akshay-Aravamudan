@@ -1,6 +1,6 @@
 <!-- # Welcome to my page -->
 
-<div style="text-align:center"><img src="./docs/image.jpeg" /></div>
+<div style="text-align:center"><img src="./docs/profile_image.jpg" /></div>
 My name is Akshay Aravamudan. I am currently a PhD student in computer engineering at Florida Institute of Technology. My primary interests are Machine learning, Data Science and Stochastic Point Processes. I recently (July 2019) graduated with my Master's Degree in Computer Engineering from Florida Institute of Technology. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my college career. You can find my resume [here](/docs/CV___Akshay_Aravamudan.pdf).
 
 ## Bio
@@ -9,10 +9,9 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 
 ## Current Research Interests
 
-1. Information Diffusion
-2. Stochastic Point Processes
-3. Information Embedding
-4. Influence Detection
+1. Stochastic Point Processes
+2. Information Embedding
+3. Influence Characterization in social media
 
 
 ## Projects
