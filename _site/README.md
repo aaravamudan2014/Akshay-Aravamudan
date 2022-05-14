@@ -25,7 +25,6 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 <h2 id="publications">Publications</h2>
 <ul>
   <li> ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge, in MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM). <a href="https://ieeexplore.ieee.org/abstract/document/9653127"> Found here </a></li>
-  <li> Zhang, X.,Aravamudan, A., & Anagnostopoulos, G. C. (2022). Anytime Information Cascade Size Prediction via Self-Exciting Processes.[Under Review] </li>
   <li> Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology.[Under Review] <a href="https://eartharxiv.org/repository/view/2401/"> EarthArXiv link Found here </a></li>
   <li> Influence Dynamics Among Narratives. In Social, Cultural, and Behavioral Modeling <a href="https://link.springer.com/chapter/10.1007/978-3-030-80387-2_20"> Found here </a></li>
   <li> Environmental Sound Classification with Tiny Transformers in Noisy Edge Environments, 2021 IEEE 7th World Forum on Internet of Things (WF-IoT). <a href="https://ieeexplore.ieee.org/abstract/document/9596007/"> Found here </a>.</li>
