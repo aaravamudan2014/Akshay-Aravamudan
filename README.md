@@ -2,8 +2,7 @@
 
 <div style="text-align:center"><img src="./docs/profile_image.jpg" /></div>
 My name is Akshay Aravamudan. 
-  I am currently a third year Ph.D. student in Computer Engineering at Florida Institute of Technology. In a nutshell, my research comprises of machine learning applications. Under that broad umbrella, 
-  I have and continue to work on Stochastic Point processes, Machine learning on the Edge and Machine learning for Hydrology.
+  I am Ph.D. student in Computer Engineering at Florida Institute of Technology. In a nutshell, my research comprises of machine learning related works. Under that rather broad umbrella,  I have and continue to work on Stochastic Point processes, Machine learning on the Edge and Machine learning for Hydrology.
   In July of 2019, I graduated with my Master’s Degree in Computer Engineering from 
   Florida Institute of Technology. The following page is used to track my current 
   research interest and to maintain a record of works, both academic and extra-curricular, 
@@ -24,6 +23,7 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 </ol>
 <h2 id="publications">Publications</h2>
 <ul>
+li> Anytime Information Cascade Popularity Prediction via Self-Exciting Processes <a href="https://proceedings.mlr.press/v162/zhang22a/zhang22a.pdf"> Found here </a></li>
   <li> ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge, in MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM). <a href="https://ieeexplore.ieee.org/abstract/document/9653127"> Found here </a></li>
   <li> Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology.[Under Review] <a href="https://eartharxiv.org/repository/view/2401/"> EarthArXiv link Found here </a></li>
   <li> Influence Dynamics Among Narratives. In Social, Cultural, and Behavioral Modeling <a href="https://link.springer.com/chapter/10.1007/978-3-030-80387-2_20"> Found here </a></li>
@@ -109,4 +109,4 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 </ol>
 
 <h3 id="contact-info">Contact info</h3>
-<p>I can be contacted via my email aaravamudan2014@my.fit.edu or via my <a href="https://www.linkedin.com/in/akshay-aravamudan-49a470b7/">Linkedin page</a></p>
+<p>I can be contacted via my email aaravamudan2014@my.fit.edu or via my <a href="https://www.linkedin.com/in/akshay-aravamudan-49a470b7/">Linkedin page</a>. I try to keep this webpage up to date, if there are any questions, please do not hesitate to contact me.</p>
