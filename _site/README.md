@@ -9,6 +9,9 @@ My name is Akshay Aravamudan.
   research interest and to maintain a record of works, both academic and extra-curricular, 
   that I have completed throughout my ongoing academic career. You can find my resume 
 
+## News
+ Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February. More details to follow soon. 
+
 ## Bio
 
 I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degree in computer engineering. I started with an interest in microcontrollers and microcomputers. During my undergraduate years, I developed a passion for machine learning, starting with a naive bayes classification tool. I got interested in the intricacies involved in developing complex models, which eventually led me down the path of neural networks. I ended up taking courses like Pattern Recognition and Neural Networks. I continued onto pursue my Master's degree, working under adviesement of [Dr. Georgios Anagnastopolous](https://www.fit.edu/faculty-profiles/3/georgios-anagnostopoulos/). My master's thesis dealt with the study of information spread and more specifically utilizing it better understand the spread of software vulnerabilities in their domains. 
