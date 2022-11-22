@@ -7,8 +7,7 @@ My name is Akshay Aravamudan.
   In July of 2019, I graduated with my Master’s Degree in Computer Engineering from 
   Florida Institute of Technology. The following page is used to track my current 
   research interest and to maintain a record of works, both academic and extra-curricular, 
-  that I have completed throughout my ongoing academic career. You can find my resume [here](https://github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf)
-Linky}.
+  that I have completed throughout my ongoing academic career. You can find my resume [here](https://github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf).
 
 ## News
  Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February. More details to follow soon. 
