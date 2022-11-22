@@ -1,13 +1,14 @@
 <!-- # Welcome to my page -->
 
-<div style="text-align:center"><img src="../docs/profile_image.jpg" /></div>
+<div style="text-align:center"><img src="docs/profile_image.jpg" /></div>
 My name is Akshay Aravamudan. 
   I am currently a third year Ph.D. student in Computer Engineering at Florida Institute of Technology. In a nutshell, my research comprises of machine learning applications. Under that broad umbrella, 
   I have and continue to work on Stochastic Point processes, Machine learning on the Edge and Machine learning for Hydrology.
   In July of 2019, I graduated with my Master’s Degree in Computer Engineering from 
   Florida Institute of Technology. The following page is used to track my current 
   research interest and to maintain a record of works, both academic and extra-curricular, 
-  that I have completed throughout my ongoing academic career. You can find my resume 
+  that I have completed throughout my ongoing academic career. You can find my resume \href{https://github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf}{here}
+Linky}.
 
 ## News
  Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February. More details to follow soon. 
