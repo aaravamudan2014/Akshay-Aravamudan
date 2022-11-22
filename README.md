@@ -27,6 +27,7 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 </ol>
 <h2 id="publications">Publications</h2>
 <ul>
+  <li> Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods (Accepted as a presentation to AAAI 2023).
   <li> Anytime Information Cascade Popularity Prediction via Self-Exciting Processes. <a href="https://proceedings.mlr.press/v162/zhang22a/zhang22a.pdf"> Found here </a></li>
   <li> ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge, in MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM). <a href="https://ieeexplore.ieee.org/abstract/document/9653127"> Found here </a></li>
   <li> Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology.[Under Review] <a href="https://eartharxiv.org/repository/view/2401/"> EarthArXiv link Found here </a></li>
@@ -59,10 +60,8 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 
 <h3 id="Upcoming-works">Upcoming works</h3>
 <ul>
-  <li>Aravamudan, A., Zhang, X., & Anagnostopoulos, G. C. (2022). A dynamic popularity prediction model
-    using hybrid survival processes. [To be submitted January 2022 to KDD].</li>
   <li>Zhang, X., Aravamudan, A., & Anagnostopoulos, G. C. (2022). Predicting software vulnerability
-    exploits from social media confabulations. [To be submitted on January 2022 to IEEE Transactions
+    exploits from social media confabulations. [To be submitted on to IEEE Transactions
     on Dependable and Secure Computing].</li>
 </ul>
 
