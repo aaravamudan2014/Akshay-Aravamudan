@@ -10,7 +10,8 @@ My name is Akshay Aravamudan.
   that I have completed throughout my ongoing academic career. You can find my resume  [here]([https://www.fit.edu](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf)).
 
 ## News
- Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February. More details to follow soon. 
+- November 22: Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February! More details to follow soon. 
+
 
 ## Bio
 
