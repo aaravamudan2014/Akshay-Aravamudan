@@ -40,7 +40,7 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 </ul>
 
 
-<h3 id="presentations">Presentations</h3>
+<h2 id="presentations">Presentations</h2>
 <ul>
   <li> Deep Residual Downscaling of Remote Sensing Imagery for Flood Hazard
     Assessment. In Abstract h42c-02, fall meeting, american geophysical union. [abstract & presentation].
@@ -62,7 +62,7 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 
 
 
-<h3 id="Upcoming-works">Upcoming works</h3>
+<h2 id="Upcoming-works">Upcoming works</h2>
 <ul>
   <li>Zhang, X., Aravamudan, A., & Anagnostopoulos, G. C. (2022). Predicting software vulnerability
     exploits from social media confabulations. [To be submitted on to IEEE Transactions
