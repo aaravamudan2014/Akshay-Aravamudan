@@ -24,7 +24,7 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 </ol>
 
 <h2 id="publications">Publications</h2>
-<h3 id="">2022-</h2>
+<h3 id="">2022- </h3>
 <ul>
   <li> Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods (Accepted as a presentation to AAAI 2023).
   <li> Anytime Information Cascade Popularity Prediction via Self-Exciting Processes. <a href="https://proceedings.mlr.press/v162/zhang22a/zhang22a.pdf"> Found here </a></li>
@@ -32,7 +32,7 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
 
 </ul>
 
-<h3 id="">2021</h2>
+<h3 id="">2021</h3>
 <ul>
 <li> ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge, in MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM). <a href="https://ieeexplore.ieee.org/abstract/document/9653127"> Found here </a></li>
 <li> Influence Dynamics Among Narratives. In Social, Cultural, and Behavioral Modeling <a href="https://link.springer.com/chapter/10.1007/978-3-030-80387-2_20"> Found here </a></li>
