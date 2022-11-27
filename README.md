@@ -2,15 +2,11 @@
 
 <div style="text-align:center"><img src="docs/profile_image.jpg" /></div>
 My name is Akshay Aravamudan. 
-  I am currently a third year Ph.D. student in Computer Engineering at Florida Institute of Technology. In a nutshell, my research comprises of machine learning applications. Under that broad umbrella, 
-  I have and continue to work on Stochastic Point processes, Machine learning on the Edge and Machine learning for Hydrology.
-  In July of 2019, I graduated with my Master’s Degree in Computer Engineering from 
-  Florida Institute of Technology. The following page is used to track my current 
-  research interest and to maintain a record of works, both academic and extra-curricular, 
-  that I have completed throughout my ongoing academic career. You can find my resume  [here](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf).
+  I am currently a fourth year Ph.D. student in Computer Engineering at Florida Institute of Technology. My research primarily comprises of machine learning applications. Under that rather broad umbrella, I have and continue to work on stochastic temporal point processes, machine learning on the edge and machine learning for hydrology. I graduated with my Master’s Degree in Computer Engineering from Florida Institute of Technology on July of 2019. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my ongoing academic career. You can find my resume [here](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf). A collection of my published papers presentations can also be found on my [Google scholar prolfile](https://scholar.google.com/citations?user=qLU7cGgAAAAJ&hl=en) 
 
 ## News
-- November 22: Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February! More details to follow soon. 
+- [November 27, 2022]: Our 2022 ICML paper was featured in Florida Tech's news website https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/. Massive congratulations to the paper lead Xi Zhang!
+- [November 22, 2022]: Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February! More details to follow soon. 
 
 
 ## Bio
@@ -26,13 +22,20 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
   <li>Machine Learning on the Edge</li>
   <li>Influence Characterization in Social Media</li>
 </ol>
+
 <h2 id="publications">Publications</h2>
+<h3 id="">2022-</h2>
 <ul>
   <li> Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods (Accepted as a presentation to AAAI 2023).
   <li> Anytime Information Cascade Popularity Prediction via Self-Exciting Processes. <a href="https://proceedings.mlr.press/v162/zhang22a/zhang22a.pdf"> Found here </a></li>
-  <li> ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge, in MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM). <a href="https://ieeexplore.ieee.org/abstract/document/9653127"> Found here </a></li>
-  <li> Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology.[Under Review] <a href="https://eartharxiv.org/repository/view/2401/"> EarthArXiv link Found here </a></li>
-  <li> Influence Dynamics Among Narratives. In Social, Cultural, and Behavioral Modeling <a href="https://link.springer.com/chapter/10.1007/978-3-030-80387-2_20"> Found here </a></li>
+  <li> Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology. <a href="https://www.sciencedirect.com/science/article/pii/S0022169422003110"> Paper link Found here </a></li>
+
+</ul>
+
+<h3 id="">2021</h2>
+<ul>
+<li> ACE: An ATAK Plugin for Enhanced Acoustic Situational Awareness at the Edge, in MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM). <a href="https://ieeexplore.ieee.org/abstract/document/9653127"> Found here </a></li>
+<li> Influence Dynamics Among Narratives. In Social, Cultural, and Behavioral Modeling <a href="https://link.springer.com/chapter/10.1007/978-3-030-80387-2_20"> Found here </a></li>
   <li> Environmental Sound Classification with Tiny Transformers in Noisy Edge Environments, 2021 IEEE 7th World Forum on Internet of Things (WF-IoT). <a href="https://ieeexplore.ieee.org/abstract/document/9596007/"> Found here </a>.</li>
 </ul>
 
