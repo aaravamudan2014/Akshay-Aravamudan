@@ -8,7 +8,7 @@ My name is Akshay Aravamudan.
 <ol>
 <li> [November 27, 2022]: Our 2022 ICML paper was featured in Florida Tech's news website https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/. Massive congratulations to the paper lead Xi Zhang! </li>
 
-<li>[November 22, 2022]: Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February! More details to follow soon. Temporary location of the paper can be found [here](https://github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Camera_ready_AAAI_2023__Anytime_User_Engagement_Prediction_in_Information_Cascades_for_Arbitrary_Observation_Periods.pdf) </li>
+<li>[November 22, 2022]: Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February! More details to follow soon. Temporary location of the paper can be found [here](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Camera_ready_AAAI_2023__Anytime_User_Engagement_Prediction_in_Information_Cascades_for_Arbitrary_Observation_Periods.pdf). </li>
 </ol>
 
 ## Bio
