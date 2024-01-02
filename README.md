@@ -1,11 +1,17 @@
 <!-- # Welcome to my page -->
 
 <div style="text-align:center"><img src="docs/profile_image.jpg" /></div>
-My name is Akshay Aravamudan. 
-  I am currently a fourth year Ph.D. student in Computer Engineering at Florida Institute of Technology. My research primarily comprises of machine learning applications. Under that rather broad umbrella, I have and continue to work on stochastic temporal point processes, machine learning on the edge and machine learning for hydrology. I graduated with my Master’s Degree in Computer Engineering from Florida Institute of Technology on July of 2019. The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my ongoing academic career. You can find my resume [here](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Akshay_Aravamudan_resume.pdf). A collection of my published papers presentations can also be found on my [Google scholar profile](https://scholar.google.com/citations?user=qLU7cGgAAAAJ&hl=en). Also do check out our research lab's website [here](https://gio-research.ai)
+My name is Akshay Aravamudan. I am currently a Ph.D. student in Computer Engineering at Florida Institute of Technology. My research primarily comprises of machine learning applications. Under that rather broad umbrella, I have and continue to work on stochastic temporal point processes, machine learning on the edge and machine learning for hydrology. In the fall of 2023, I interned at Amazon as an applied scientist wherein I worked on a discrete event simulation for routing of support calls for the SPeXSci (Selling Partner Experience Science) team.
+
+The following page is used to track my current research interest and to maintain a record of works, both academic and extra-curricular, that I have completed throughout my ongoing academic career. You can find my resume [here](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/CV___Akshay_Aravamudan__July_2023_.pdf). A collection of my published papers presentations can also be found on my [Google scholar profile](https://scholar.google.com/citations?user=qLU7cGgAAAAJ&hl=en). Also do check out our research lab's website [here](https://gio-research.ai)
 
 ## News
 <ol>
+
+<li> [December 8, 2023]: We will be presenting our work titled "Regional Seismic Discrimination using Machine Learning" at AGU 2023! </li>
+
+<li> [August 27, 2023]: I will be interning at Amazon, Seattle this Fall semester. Very excited to work with the team </li>
+
 <li> [November 27, 2022]: Our 2022 ICML paper was featured in Florida Tech's news website https://news.fit.edu/academics-research/university-study-examines-viral-probability-of-social-media-posts/. Massive congratulations to the paper lead Xi Zhang! </li>
 
 <li>[November 22, 2022]: Our paper "Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods" has been accepted to AAAI 2023! Super excited to be presenting our work in Washington, D.C, come February! More details to follow soon. Temporary location of the paper can be found [here](https://www.github.com/aaravamudan2014/Akshay-Aravamudan/blob/master/docs/Camera_ready_AAAI_2023__Anytime_User_Engagement_Prediction_in_Information_Cascades_for_Arbitrary_Observation_Periods.pdf). </li>
@@ -21,14 +27,23 @@ I joined [Florida Tech](https://www.fit.edu) at 2014 to purse my Bachelor's degr
   <li>Information Diffusion</li>
   <li>Stochastic Temporal Point Processes</li>
   <li>Machine Learning for Hydrology</li>
-  <li>Machine Learning on the Edge</li>
+  <li>Machine Learning for Seismology</li>
   <li>Influence Characterization in Social Media</li>
 </ol>
 
 <h2 id="publications">Publications</h2>
-<h3 id="2022">2022- </h3>
+<h3 id="2023">2023- </h3>
 <ul>
-  <li> Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods (Accepted as a presentation to AAAI 2023).
+  <li> Anytime User Engagement Prediction in Information Cascades for Arbitrary Observation Periods (Accepted as a presentation to AAAI 2023). <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/25627/25399"> Found here </a> </li>
+  <li> Regional Seismic Event Discrimination using Machine Learning <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1432262"> Paper link Found here </a></li>
+  <li> Improving Flash Flood Monitoring and Forecasting Capabilities in West Africa with Satellite Observations and Precipitation Forecasts <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1403991"> Paper link Found here </a></li>
+  <li> A multi-firearm, multi-orientation audio dataset of gunshots. <a href="https://www.sciencedirect.com/science/article/pii/S235234092300210X"> Found here </a></li>
+</ul>
+
+
+<h3 id="2022">2022 </h3>
+<ul>
+
   <li> Anytime Information Cascade Popularity Prediction via Self-Exciting Processes. <a href="https://proceedings.mlr.press/v162/zhang22a/zhang22a.pdf"> Found here </a></li>
   <li> Advancing flood warning procedures in ungauged basins with machine learning. Journal of Hydrology. <a href="https://www.sciencedirect.com/science/article/pii/S0022169422003110"> Paper link Found here </a></li>
 </ul>
